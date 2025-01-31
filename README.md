@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou Matheus, um goiano de 21 anos, e sou Desenvolvedor Front-End.
+Sou Matheus, um goiano de 22 anos, e sou Desenvolvedor Front-End.
 
 Como profissional apaixonado por tecnologia, tenho experiência em criação de interfaces intuitivas e responsivas, focando na experiência do usuário. Sou habilidoso em análise de requisitos e no desenvolvimento de sistemas que garantem acessibilidade e desempenho. Comprometido em fornecer soluções visuais que atendam às necessidades dos usuários com excelência e eficiência. Atualmente, estou cursando Engenharia de Software, buscando sempre expandir meus conhecimentos e habilidades na área.
 
