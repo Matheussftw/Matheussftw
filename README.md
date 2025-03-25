@@ -25,7 +25,7 @@ Apaixonado por tecnologia, tenho experiência no desenvolvimento de aplicações
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a href="www.linkedin.com/in/matheusoliveira-sftw" title="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/matheusoliveira-sftw" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://wa.me/+5562991932891" title="WhatsApp" target="_blank">
